@@ -1,0 +1,22 @@
+body {
+    font-size:  20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: bluegit;
+    background:linear-gradient(to right,blue, white);
+    text-align: center;
+}
+
+a {
+   text-decoration:none;
+   color: black;
+   border:2px solid black;
+   padding: 12px 24px;
+   border-radius: 10px;
+}
+
+h1 {
+    font-size: 30px;
+    text-transform: capitalize;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
